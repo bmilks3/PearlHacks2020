@@ -1,0 +1,85 @@
+const letters = [
+    'a',
+    'b',
+    'c',
+    'd',
+    'e',
+    'f',
+    'g',
+    'h',
+    'i',
+    'j',
+    'k',
+    'l',
+    'm',
+    'n',
+    'o',
+    'p',
+    'q',
+    'r',
+    's',
+    't',
+    'u',
+    'v',
+    'w',
+    'x',
+    'y',
+    'z',
+];
+
+const words = [
+    'mop',
+    'pop',
+    'mill',
+    'milk',
+    'pill',
+    'no',
+    'i',
+    'reef',
+    'look',
+    'deer',
+    'wear',
+    'tug',
+    'bug',
+    'hug',
+    'rut',
+];
+
+const medWords = [
+    'rope',
+    'foot',
+    'house',
+    'new',
+    'money',
+    'near',
+    'fear',
+    'file',
+    'open',
+    'save',
+    'name',
+    'demo',
+    'bean',
+    'sink',
+    'mouse',
+    'share',
+    'type',
+    'name',
+    'date',
+    'time',
+    'call',
+    'desk'
+    'job'
+    'load'
+];
+
+constant hardWords = [
+    'Document',
+    'date',
+    'time',
+    'business',
+    'career',
+    'appointment',
+    'labor',
+    
+    
+]
